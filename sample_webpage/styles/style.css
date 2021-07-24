@@ -1,0 +1,23 @@
+p {
+  color: black;
+
+}
+
+html {
+  background-color: #77CED0;
+}
+#answer {
+  width:200px;
+  height: 50px;
+  font-size: 30px;
+}
+canvas {
+  background-color: #FFAE55
+}
+
+.caution {
+  color: #880000;
+
+
+
+}
